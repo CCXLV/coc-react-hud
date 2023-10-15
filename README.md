@@ -4,6 +4,8 @@ Written in Typescript and React
 
 ### How to set up
 Download the repository and after that run this in terminal
+Go to Clash of Clans Developer Portal where you have to sign up or log in and get the API Key. https://developer.clashofclans.com/#/
+When you get the API Key go to `./src/config.json` and put that key in the `" "`
 
     npm i
 
