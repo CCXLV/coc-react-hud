@@ -27,4 +27,5 @@ This will start the backend server
 Now when both react app and server are running the website will automatically open, if it doesn't open head to that url http://localhost:3000 and have fun
 
 
+
 Idea from [Lexogrine](https://github.com/lexogrine)
